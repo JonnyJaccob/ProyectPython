@@ -1,4 +1,20 @@
 # Proyectos hechos en _Python_  
 Estos proyectos estan hechos con la finalidad de practicar y adquirir nuevos conocimientos en python  
 
-## Lista de proyectos:  
+## Lista de proyectos:
+## Dificultad  
+
+### Sencillos  
+* **Calculadora**  
+* Youtube downloader
+* Url Shortner  
+  
+### Intermedio
+* Notepad
+* Quiz app
+* reproductor de musica
+  
+### Profesional
+* Detector de caras
+* Tinder bot
+* Juego 2d
