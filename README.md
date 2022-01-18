@@ -6,8 +6,8 @@ Estos proyectos estan hechos con la finalidad de practicar y adquirir nuevos con
 ## Dificultad  
 
 ### Sencillos  
-* **Calculadora**  
-* **Youtube downloader**
+* -**Calculadora**-  
+* -**Youtube downloader**-
 * Url Shortner  
   
 ### Intermedio
