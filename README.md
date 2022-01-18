@@ -1,5 +1,5 @@
 # Proyectos hechos en _Python_  
-## 1.1.1
+## 1.1.2
 Estos proyectos estan hechos con la finalidad de practicar y adquirir nuevos conocimientos en python  
 
 ## Lista de proyectos:
@@ -7,7 +7,7 @@ Estos proyectos estan hechos con la finalidad de practicar y adquirir nuevos con
 
 ### Sencillos  
 * **Calculadora**  
-* Youtube downloader
+* **Youtube downloader**
 * Url Shortner  
   
 ### Intermedio
